@@ -9,7 +9,7 @@ Thus, each row of the dataset corresponds to one sequence in the repertoire, on 
 `f1_sim.csv` contains the same summaries, but for a dataset that was simulated based on the individual's original observed dataset.
 This simulation was also conducted via `partis`.
 
-The following table describes the value of each column (summary):
+The following table describes the value of each column (NOTE - new datasets and/or columns may be added in the future):
 
 | name | description |
 |------|-------------|
