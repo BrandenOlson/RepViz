@@ -9,7 +9,7 @@ Thus, each row of the dataset corresponds to one sequence in the repertoire, on 
 `f1_sim.csv` contains the same summaries, but for a dataset that was simulated based on the individual's original observed dataset.
 This simulation was also conducted via `partis`.
 
-The following table describes the value of each column (summary):
+The following table describes the value of each column (NOTE - new datasets and/or columns may be added in the future):
 
 | name | description |
 |------|-------------|
@@ -17,4 +17,10 @@ The following table describes the value of each column (summary):
 | CDR3Length | The length of the sequence's inferred CDR3 region (i.e. the third complementarity-determining region) |
 | Hydrophobicity | The average hydrophobicity of the CDR3's amino acid sequence |
 | AliphaticIndex | The relative volume of the CDR3 occupied by aliphatic side chains (alanine, valine, isoleucine, and leucine) |
-| GRAVY | The Grand Average of Hydropathicity (GRAVY) index of the CDR3's amino acid sequences
+| GRAVY | The Grand Average of Hydropathicity (GRAVY) index of the CDR3's amino acid sequences |
+| VGene3PDeletionLength | Length of inferred V gene 3' deletion |
+| DGene3PDeletionLength | Length of inferred D geme 3' deletion |
+| DGene5PDeletionLength | Length of inferred D gene 5' deletion |
+| JGene5PDeletionLength | Length of inferred J gene 5' deletion |
+| VDInsertionLength | Length of inferred VD insertion |
+| DJInsertionLength | Length of inferred DJ insertion |
