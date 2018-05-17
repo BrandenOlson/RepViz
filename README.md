@@ -27,7 +27,8 @@ In particular, there are three patients initialed "FV", "GMC", and "IB", each of
 | i2_obs | IB      | 8 days                  | observed     |
 | i2_sim | IB      | 8 days                  | simulated    |
 
-The following table describes the value of each column (NOTE - new datasets and/or columns may be added in the future):
+Each of the above datasets includes identical columns names, i.e. the same summary stastics were computed for each dataset.
+The following table describes the values of each column (NOTE - new columns may be added in the future):
 
 | name | description |
 |------|-------------|
